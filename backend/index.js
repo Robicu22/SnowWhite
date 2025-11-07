@@ -3,7 +3,6 @@ import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import route from './route/userRoute.js';
-import nodemon from 'nodemon';
 
 
 const app = express();
